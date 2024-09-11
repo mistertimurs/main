@@ -1,0 +1,3 @@
+2024-09-11 11:24:31.229 [info] Started initializing default profile extensions in extensions installation folder. file:///home/alm-hexly9/.vscode/extensions
+2024-09-11 11:24:31.265 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/alm-hexly9/.vscode/extensions Unable to create file 'vscode-userdata:/home/alm-hexly9/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2024-09-11 11:24:31.265 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/alm-hexly9/.vscode/extensions

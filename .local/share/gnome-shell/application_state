@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.FileRoller.desktop" score="0" last-seen="1726035704"/>
+    <application id="org.gnome.TextEditor.desktop" score="15" last-seen="1726028719"/>
+    <application id="snap-store_snap-store.desktop" score="44" last-seen="1726035931"/>
+    <application id="software-properties-gtk.desktop" score="0" last-seen="1725937987"/>
+    <application id="apport-gtk.desktop" score="0" last-seen="1725941485"/>
+    <application id="org.gnome.Tecla.desktop" score="0" last-seen="1726028907"/>
+    <application id="org.gnome.Nautilus.desktop" score="112" last-seen="1726038477"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1726036003"/>
+    <application id="update-manager.desktop" score="0" last-seen="1726036590"/>
+    <application id="code_code.desktop" score="321" last-seen="1726038475"/>
+    <application id="gnome-initial-setup.desktop" score="210" last-seen="1725713201"/>
+    <application id="org.gnome.Terminal.desktop" score="2159" last-seen="1726032924"/>
+    <application id="firefox_firefox.desktop" score="1640" last-seen="1726038475"/>
+    <application id="yelp.desktop" score="0" last-seen="1725937709"/>
+    <application id="org.gnome.Settings.desktop" score="93" last-seen="1726032456"/>
+  </context>
+</application-state>
